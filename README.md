@@ -1,7 +1,7 @@
 ## Eu sou Jonas Pacheco
 
 - 🔭 Procurando novos desafios
-- 🌱 Estudando tecnologia em banco de dados e analise de dados com python 
+- 🌱 Estudando Ciência da Computação com foco em full stack
 
 <div>
   <a href="https://github.com/Pacheco-Jonas">
